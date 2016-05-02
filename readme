@@ -1,4 +1,4 @@
-Запуск во встороенном сурвере tomcat
+Запуск во встороенном сервере tomcat
 	mvn war:exploded tomcat7:run-war-only 
 	
 Сборка war
