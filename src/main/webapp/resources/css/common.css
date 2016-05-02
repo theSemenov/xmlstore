@@ -1,0 +1,26 @@
+.menu {
+	width: 200px !important;
+}
+
+html,body {
+	height: 100%;
+}
+
+.pure-menu .pure-menu-selected a {
+	background: repeat scroll 0 0 #99C9F5
+}
+
+.line-container {
+	display: inline-flex;
+	height: 100%;
+	width: 100%;
+}
+
+.legend {
+	border-bottom: 1px solid #e5e5e5;
+	color: #333;
+	display: block;
+	margin-bottom: 0.3em;
+	padding: 0.3em 0;
+	width: 100%;
+}

@@ -1,0 +1,5 @@
+Запуск во встороенном сурвере tomcat
+	mvn war:exploded tomcat7:run-war-only 
+	
+Сборка war
+	mvn package 
